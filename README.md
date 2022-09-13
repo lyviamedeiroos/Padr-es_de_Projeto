@@ -1,2 +1,2 @@
-# Disciplina de Padrões de Projeto - P3
+# Disciplina de Padrões de Projetos - P3
 Exercicios referente a disciplina 
